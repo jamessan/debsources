@@ -4,6 +4,8 @@ flask
 Flask-WTF
 sqlalchemy
 python-debian
+# to speed up APT files parsing:
+python-apt
 psycopg2
 # required for matplotlib to build:
 freetype-py
